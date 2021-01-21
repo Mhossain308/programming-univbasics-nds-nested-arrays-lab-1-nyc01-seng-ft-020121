@@ -25,8 +25,6 @@ def sorted_matrix
   CONVENTIONAL_PRODUCE.sorted_matrix,
   ORGANIC_PRODUCE.sort
 ]
-
-
 end
 
 def matrix_lookup(matrix, row, column)
