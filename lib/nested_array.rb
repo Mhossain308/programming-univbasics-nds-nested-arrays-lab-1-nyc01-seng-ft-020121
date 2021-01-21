@@ -21,6 +21,8 @@ def assembled_matrix
 end
 
 def sorted_matrix
+  CONVENTIONAL_PRODUCE.sort
+  ORGANIC_PRODUCE.sort
 
 end
 
