@@ -40,6 +40,6 @@ def matrix_update(matrix, row, column, new_value)
     ["Eggplant", "Grapefruit", "Oranges", "Pineapple", "Watermelon"],
     ["Asparagus", "Avocadoes", "Grapes", "Potatoes", "Strawberries"]
   ]
-matrix_update [row][column] = new_value
+matrix[row][column] = new_value
 
 end
