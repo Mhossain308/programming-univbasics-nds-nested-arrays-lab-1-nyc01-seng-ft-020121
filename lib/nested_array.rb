@@ -32,7 +32,7 @@ def matrix_lookup(matrix, row, column)
     ["Eggplant", "Grapefruit", "Oranges", "Pineapple", "Watermelon"],
     ["Asparagus", "Avocadoes", "Grapes", "Potatoes", "Strawberries"]
   ]
-  matrix[0][1]
+  matrix[1][1]
 end
 
 def matrix_update(matrix, row, column, new_value)
