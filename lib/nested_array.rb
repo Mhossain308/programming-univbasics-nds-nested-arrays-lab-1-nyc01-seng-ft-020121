@@ -22,7 +22,7 @@ end
 
 def sorted_matrix
   sorted_matrix= [
-  CONVENTIONAL_PRODUCE.sorted_matrix
+  CONVENTIONAL_PRODUCE.sorted_matrix,
   ORGANIC_PRODUCE.sort
 ]
 
